@@ -12,21 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'hershpathak',
-    github: 'hershpa'
-    /*twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',*/
+    github: 'hershpa',
   },
   resume: {
     fileUrl:
