@@ -40,6 +40,8 @@ const config = {
     'Kubernetes',
     'Git',
     'Docker',
+    'Linux',
+    'Distributed Systems',
   ],
   experiences: [
     {
@@ -105,7 +107,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'Dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
